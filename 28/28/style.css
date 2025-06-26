@@ -45,7 +45,11 @@ body{
     box-sizing:border-box;
     margin:10px;
 }
-.image{
-    width:auto;
+.image img{
+    width:300px;
     height:auto;
+}
+.songtitle{
+    text-decoration: none;
+    color:#530044;
 }
